@@ -8,7 +8,7 @@ class Controller:
         self._model = model
 
     def handle_create_graph(self, e):
-        pass
+        pass #prova
 
     def handle_connected_artists(self, e):
         pass
